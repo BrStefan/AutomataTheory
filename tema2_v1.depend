@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519558787 source:e:\codeblocks\codeblocks\lfa\tema2_v1\tema2_v1.cpp
+	<cstdio>
+	<vector>
+	<cstring>
+
